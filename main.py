@@ -1,9 +1,11 @@
 from stanfordkarel import *
 
+
 def turn_right():
     turn_left()
     turn_left()
     turn_left()
+
 
 def main():
     """MAZE RUNNER: Move karel from lower left hand corner to upper right hand corner
